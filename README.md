@@ -1,6 +1,5 @@
-# bootcamp_Navbar
+# Vue_SPA_Template
 
-> A Vue.js project
+> A Vue.js template
 
-## Building a Navbar component
 
