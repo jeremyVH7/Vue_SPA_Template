@@ -35,7 +35,7 @@ export default {
   },
   data () {
     return {
-      title: 'Vue Router Bootcamp',
+      title: 'Vue Single Page Template',
       buttonLinks: [
         ['/home', 'Home'],
         ['/about', 'About']
