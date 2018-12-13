@@ -1,7 +1,7 @@
 <template>
   <select v-on:change="dropdownChange" style="color: black;">
     <option value="0" selected="selected">Make a Selection</option>
-    <option v-for='i in dropdownItems' v-bind:value="i" v-text="i"></option>
+    <option v-for='i in dropdownItems' v-bind:value="i" v-text="i" v-bind:key="i"></option>
   </select>
 </template>
 
